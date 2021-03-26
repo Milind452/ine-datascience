@@ -24,3 +24,6 @@ if __name__ == "__main__":
         is_correct = False
 
     print(my_string, is_correct)
+
+    test_with_empty_string()
+    test_with_valid_string()

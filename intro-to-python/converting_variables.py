@@ -14,3 +14,6 @@ if __name__ == "__main__":
     an_integer = int(an_integer)
     a_float = float(a_float)
     a_bool = bool(a_bool)
+
+
+    test_types()

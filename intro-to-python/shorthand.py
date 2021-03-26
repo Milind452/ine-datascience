@@ -15,3 +15,6 @@ if __name__ == "__main__":
 
     # Divide change_me by 4
     change_me /= 4
+
+
+    test_shorthand()

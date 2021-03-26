@@ -11,3 +11,6 @@ if __name__ == "__main__":
 
     # Overwrite "another_old_variable" to something different on the line below
     another_old_variable = 100
+
+
+    test_overwrite()

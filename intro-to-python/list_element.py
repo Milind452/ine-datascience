@@ -11,3 +11,5 @@ if __name__ == "__main__":
 
     pizza_ingredients = ['cheese', 'pepper', 'onion', 'chicken', 'tomato']
     ingredient_4 = pizza_ingredients[3]
+
+    test_ingredients()

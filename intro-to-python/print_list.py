@@ -13,3 +13,5 @@ if __name__ == "__main__":
     while x < i:
         print(my_list[x])
         x += 1
+
+    test_while()

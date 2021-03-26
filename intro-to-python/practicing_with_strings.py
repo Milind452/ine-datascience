@@ -8,3 +8,6 @@ if __name__ == "__main__":
     # Final text should be:
     # "Learning Python with INE"
     text = string_1 + " " + string_2
+
+
+    test_final_text()

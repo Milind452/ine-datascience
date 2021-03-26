@@ -12,3 +12,7 @@ if __name__ == "__main__":
 
     # Finish the code to check if num1 is less than or equal to 12
     less_or_equal_to_12 = num1 <= 12
+
+
+    test_greater()
+    test_lessequal()
